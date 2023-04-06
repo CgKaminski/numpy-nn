@@ -1,1 +1,1 @@
-# numpy_nn
+# numpy-nn
